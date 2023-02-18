@@ -4,4 +4,4 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: [Live Solution](https://your-live-site-url.com)
+- Live Site URL: [Live Solution](https://evolxcsschallenge7.netlify.app)
